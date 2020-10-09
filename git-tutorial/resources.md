@@ -1,6 +1,7 @@
 There are lots of resources about learning Git on the internet. Here are a few of them:
 
-1) https://learngitbranching.js.org/
+1) The [presentation](https://docs.google.com/presentation/d/1JOI6Q5E9-o4DmuRi9I_VSC072-xGfStAs96aBkh-s1U/edit?usp=sharing)
+2) https://learngitbranching.js.org/
     * interactive gamified tutorial
     * topics covered:
         * commits
@@ -10,8 +11,8 @@ There are lots of resources about learning Git on the internet. Here are a few o
         * cherry-picking
         * cloning
         * pushing
-2) Git [Docs](https://git-scm.com/docs)
+3) Git [Docs](https://git-scm.com/docs)
     * Like typescriptlang.org, but for Git
     * Has every command, and every flag those commands take
-3) Google!
+4) Google!
     * Once you know the vocabulary, you'll be able to solve every Git problem from a StackOverflow question or the Git docs.

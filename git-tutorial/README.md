@@ -88,4 +88,4 @@ Merge conflicts happen when two people try and modify the same lines in a file a
 There are some good instructions [here](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line) for resolving them.
 
 # Further Reading & Learning
-Check out the list of resources [here](./resources.md).
+Check out the list of resources [here](./resources.md), including a link to the presentation from the beginning of this section.
